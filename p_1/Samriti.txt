@@ -1,0 +1,14 @@
+Date of admission: 02/07/2025 17:34:23
+Name : RAKSHIT
+Address : chandigarh
+Contact Number : 918562456
+Age : 21
+Sex : male
+Blood Group : a+
+Any Major disease suffered earlier : no
+Patient ID : 101
+
+********************************************************************
+
+
+Total Bill:4200.0
