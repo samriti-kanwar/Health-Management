@@ -18,7 +18,7 @@ class Info
         System.out.print("\t\t\t\t\t|                                                                                       |\n");
         System.out.print("\t\t\t\t\t|_______________________________________________________________________________________|\n");
     }
-    //Declaring variales to be used
+ 
     Scanner scan=new Scanner(System.in);
     String name;
     String address;
@@ -42,7 +42,7 @@ class Info
             System.out.println("Press 'Enter' key to continue!");
         }
     }
-    //Taking multiple words
+    
     String readString()
     {
         Scanner scanner = new Scanner(System.in);
